@@ -1,5 +1,4 @@
-# Heading 1
-This is Atom
+### This is Atom
 
 We are the atoms. We are the sad bitches you need to worry about. Once we start we never complete but once we complete no one can compete.
 
